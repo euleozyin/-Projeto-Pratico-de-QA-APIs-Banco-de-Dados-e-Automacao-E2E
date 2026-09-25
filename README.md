@@ -1,8 +1,5 @@
-# -Projeto-Pr-tico-de-QA-APIs-Banco-de-Dados-e-Automa-o-E2E
 # 🎯 Projeto Prático de QA: APIs, Banco de Dados e Automação E2E
-
 Bem-vindo(a) ao meu portfólio de Quality Assurance! Este repositório contém a resolução de um desafio prático focado na validação de qualidade em três frentes essenciais do desenvolvimento de software: Testes de API, Consultas SQL e Automação Web.
-
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Postman:** Para testes manuais de API e validação de status codes.
 * **SQL (W3Schools):** Para consultas e validação de integridade de dados.
